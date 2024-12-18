@@ -1,0 +1,19 @@
+{
+    "name": "natilosir/upload",
+    "description": "A simple file upload library for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+      {
+        "name": "Your Name",
+        "email": "your-email@example.com"
+      }
+    ],
+    "autoload": {
+      "psr-4": {
+        "Natilosir\\Upload\\": "src/"
+      }
+    },
+    "require": {}
+  }
+  
